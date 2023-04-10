@@ -1,0 +1,7 @@
+{
+  "extends": "../../tsconfig.workspace.json",
+  "compilerOptions": {
+    "outDir": "../../dist/tasks/my-task",
+  },
+  "references": [{ "path": "../../my-shared/tsconfig.json" }]
+}

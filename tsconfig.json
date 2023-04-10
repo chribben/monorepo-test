@@ -1,0 +1,11 @@
+{
+  "references": [
+    {
+      "path": "./tasks/my-task"
+    },
+    {
+      "path": "./my-shared"
+    }
+  ],
+  "files": []
+}
